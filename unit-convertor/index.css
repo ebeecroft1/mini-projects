@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    color: white;
+    padding: 1em;
+    text-align: center;
+    margin: 0 auto;
+    width: 550px;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(246.26deg, #ED4683 0%, #F48E14 100%);
+}
+
+.bottom {
+    margin: 0 auto;
+    padding: 1em;
+    text-align: center;
+    width: 550px;
+    height: 550px;
+    left: 89px;
+    top: 83px;
+    background: #FBF7EE;
+}
+
+input {
+    height: 100px;
+    width: 200px;
+    border-radius: 1em;
+    border: none;
+    text-align: center;
+    font-size: 2em;   
+}
