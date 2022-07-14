@@ -20,4 +20,4 @@ function calc() {
     let pounds = (num * 2.205).toFixed(3)
     mass.textContent = `${num} kilos = ${pounds} pounds | ${num} pounds = ${kilos} kilos`
     
-}
+};
